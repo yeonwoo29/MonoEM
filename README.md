@@ -1,4 +1,4 @@
-# MonoRange: Monocular 3D Object Detection Based on Object-centric RangeMap in Adverse Weather Conditions
+# MonoEM: Object-level Monocular 3D Object Detection Based on Equirectangular Map under Inclement Weather
 
 ## Getting Started
 ### Prerequisites
@@ -16,6 +16,6 @@
 	6. dlib
 - All dependencies can be installed using *pip install* and the package name
 
-### Running MonoRange
+### Running MonoEM
 The primary training script is `train.sh`. It takes aligned and cropped images from the paths specified in the "Input info" subsection of `configs/paths_config.py`.
 The results, including inversion latent codes and optimized generators, are saved to the directories listed under "Dirs for output files" in `configs/paths_config.py`.
