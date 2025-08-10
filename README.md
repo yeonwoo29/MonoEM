@@ -3,7 +3,7 @@
 ## Getting Started
 ### Prerequisites
 - Linux or macOS
-- NVIDIA GPU + CUDA CuDNN (Not mandatory bur recommended)
+- NVIDIA GPU + CUDA CuDNN (Not mandatory but recommended)
 - Python 3
 
 ### Installation
